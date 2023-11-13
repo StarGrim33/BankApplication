@@ -95,6 +95,10 @@
                             CustomersPresentation.AddCustomer();
                             break;
 
+                            case 2:
+                            CustomersPresentation.DeleteCustomer();
+                                break;
+
                         case 5:
                             CustomersPresentation.ViewCustomer();
                             break;
