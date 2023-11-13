@@ -75,5 +75,43 @@ namespace BankApplication
                 throw;
             }
         }
+
+        internal static void DeleteCustomer()
+        {
+            try
+            {
+                ICustomerBusinessLogicLayers customerBusinessLogicLayers = new CustomersBusinessLogicLayer();
+                ViewCustomer();
+                Console.WriteLine("Which customer do you want to delete, enter CustomerCode? : ");
+
+                if (long.TryParse(Console.ReadLine(), out long customerCode))
+                {
+                    var matchingCustomers = customerBusinessLogicLayers.GetCustomersByCondition(item => item.CustomerCode == customerCode);
+
+                    if (matchingCustomers.Count > 0)
+                    {
+                        Customer customerToDelete = matchingCustomers[0];
+                        customerBusinessLogicLayers.DeleteCustomer(customerToDelete.CustomerID);
+
+                        Console.WriteLine("Customer deleted successfully");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Customer not found");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Invalid input. Please enter a valid CustomerCode.");
+                }
+
+                Console.ReadKey();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.GetType);
+            }
+        }
     }
 }
