@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BankApplication.Configuration\BankApplication.Configuration.csproj" />
+    <ProjectReference Include="..\BankApplication.DataAccessLayer\BankApplication.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\BankApplication.Entities\BankApplication.Entities.csproj" />
+    <ProjectReference Include="..\BankApplication.Exceptions\BankApplication.Exceptions.csproj" />
+  </ItemGroup>
+
+</Project>
