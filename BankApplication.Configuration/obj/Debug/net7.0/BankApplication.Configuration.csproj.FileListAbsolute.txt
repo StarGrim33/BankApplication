@@ -1,0 +1,12 @@
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Configuration\bin\Debug\net7.0\BankApplication.Configuration.deps.json
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Configuration\bin\Debug\net7.0\BankApplication.Configuration.dll
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Configuration\bin\Debug\net7.0\BankApplication.Configuration.pdb
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Configuration\obj\Debug\net7.0\BankApplication.Configuration.csproj.AssemblyReference.cache
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Configuration\obj\Debug\net7.0\BankApplication.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Configuration\obj\Debug\net7.0\BankApplication.Configuration.AssemblyInfoInputs.cache
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Configuration\obj\Debug\net7.0\BankApplication.Configuration.AssemblyInfo.cs
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Configuration\obj\Debug\net7.0\BankApplication.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Configuration\obj\Debug\net7.0\BankApplication.Configuration.dll
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Configuration\obj\Debug\net7.0\refint\BankApplication.Configuration.dll
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Configuration\obj\Debug\net7.0\BankApplication.Configuration.pdb
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Configuration\obj\Debug\net7.0\ref\BankApplication.Configuration.dll

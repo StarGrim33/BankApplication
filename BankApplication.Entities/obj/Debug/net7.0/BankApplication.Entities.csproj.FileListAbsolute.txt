@@ -1,0 +1,15 @@
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\bin\Debug\net7.0\BankApplication.Entities.deps.json
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\bin\Debug\net7.0\BankApplication.Entities.dll
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\bin\Debug\net7.0\BankApplication.Entities.pdb
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\bin\Debug\net7.0\BankApplication.Exceptions.dll
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\bin\Debug\net7.0\BankApplication.Exceptions.pdb
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\obj\Debug\net7.0\BankApplication.Entities.csproj.AssemblyReference.cache
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\obj\Debug\net7.0\BankApplication.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\obj\Debug\net7.0\BankApplication.Entities.AssemblyInfoInputs.cache
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\obj\Debug\net7.0\BankApplication.Entities.AssemblyInfo.cs
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\obj\Debug\net7.0\BankApplication.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\obj\Debug\net7.0\BankApplication.Entities.csproj.CopyComplete
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\obj\Debug\net7.0\BankApplication.Entities.dll
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\obj\Debug\net7.0\refint\BankApplication.Entities.dll
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\obj\Debug\net7.0\BankApplication.Entities.pdb
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\obj\Debug\net7.0\ref\BankApplication.Entities.dll
