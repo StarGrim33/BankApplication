@@ -13,11 +13,11 @@ namespace BankApplication.DataAccessLayer
         /// <summary>
         /// The collection for test presentation, in a real-time project i will use data-bases
         /// </summary>
-        private List<Customer> _customers;
+        private static List<Customer> _customers;
         #endregion
 
         #region Constructor
-        public CustomersDataAccessLayer()
+        static CustomersDataAccessLayer()
         {
             _customers = new List<Customer>();
         }
@@ -32,9 +32,6 @@ namespace BankApplication.DataAccessLayer
         {
             try
             {
-                if (customer == null)
-                    throw new ArgumentNullException(nameof(customer));
-
                 customer.CustomerID = Guid.NewGuid();
                 _customers.Add(customer);
                 return customer.CustomerID;
@@ -53,9 +50,6 @@ namespace BankApplication.DataAccessLayer
         {
             try
             {
-                if (customerId == Guid.Empty)
-                    throw new ArgumentNullException(nameof(customerId));
-
                 if (_customers.RemoveAll(item => item.CustomerID == customerId) > 0)
                     return true;
 
@@ -91,9 +85,9 @@ namespace BankApplication.DataAccessLayer
             try
             {
                 List<Customer> customers = new();
-                List<Customer> filteredCustomers = customers.FindAll(predicate);
-                Customers.ForEach(customer => filteredCustomers.Add(customer.Clone() as Customer));
-                return filteredCustomers;
+                List<Customer> filteredCustomers = Customers.FindAll(predicate);
+                filteredCustomers.ForEach(customer => customers.Add(customer.Clone() as Customer));
+                return customers;
             }
             catch (CustomerException)
             {

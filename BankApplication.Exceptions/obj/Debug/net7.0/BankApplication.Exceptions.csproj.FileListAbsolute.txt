@@ -1,0 +1,12 @@
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Exceptions\bin\Debug\net7.0\BankApplication.Exceptions.deps.json
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Exceptions\bin\Debug\net7.0\BankApplication.Exceptions.dll
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Exceptions\bin\Debug\net7.0\BankApplication.Exceptions.pdb
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Exceptions\obj\Debug\net7.0\BankApplication.Exceptions.csproj.AssemblyReference.cache
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Exceptions\obj\Debug\net7.0\BankApplication.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Exceptions\obj\Debug\net7.0\BankApplication.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Exceptions\obj\Debug\net7.0\BankApplication.Exceptions.AssemblyInfo.cs
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Exceptions\obj\Debug\net7.0\BankApplication.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Exceptions\obj\Debug\net7.0\BankApplication.Exceptions.dll
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Exceptions\obj\Debug\net7.0\refint\BankApplication.Exceptions.dll
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Exceptions\obj\Debug\net7.0\BankApplication.Exceptions.pdb
+C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Exceptions\obj\Debug\net7.0\ref\BankApplication.Exceptions.dll

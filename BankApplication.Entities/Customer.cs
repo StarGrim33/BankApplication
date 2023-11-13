@@ -1,5 +1,6 @@
 ﻿using BankApplication.Entities.Contracts;
 using BankApplication.Exceptions;
+using System.Threading.Channels;
 
 namespace BankApplication.Entities
 {
@@ -79,6 +80,15 @@ namespace BankApplication.Entities
                 CustomerCode = this.CustomerCode
             };
         }
+
+        public override string ToString()
+        {
+             string info = $"Customer code: {CustomerCode}, customer name: {CustomerName}, customer address: {CustomerAddress}" +
+                $", customer phone: {CustomerPhone}, customer city: {CustomerCity}, customer country: {CustomerCountry}";
+
+            return info;
+        }
+
         #endregion
     }
 }
