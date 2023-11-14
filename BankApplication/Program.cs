@@ -95,12 +95,24 @@
                             CustomersPresentation.AddCustomer();
                             break;
 
-                            case 2:
+                        case 2:
                             CustomersPresentation.DeleteCustomer();
-                                break;
+                            break;
+
+                        case 3:
+                            CustomersPresentation.UpdateCustomer();
+                            break;
+
+                        case 4:
+                            CustomersPresentation.SearchCustomer();
+                            break;
 
                         case 5:
                             CustomersPresentation.ViewCustomer();
+                            break;
+
+                        default:
+                            Console.WriteLine("Input valid number of menu");
                             break;
                     }
                 }
@@ -118,13 +130,39 @@
 
             do
             {
-                Console.WriteLine($"{Environment.NewLine}:::Accounts menu:::{Environment.NewLine}1. Add Account{Environment.NewLine}2. Delete Account{Environment.NewLine}3. Update Account{Environment.NewLine}4. View Accounts{Environment.NewLine}0. Back to Main Menu");
+                Console.WriteLine($"{Environment.NewLine}:::Accounts menu:::{Environment.NewLine}" +
+                    $"1. Add Account{Environment.NewLine}" +
+                    $"2. Delete Account{Environment.NewLine}" +
+                    $"3. Update Account{Environment.NewLine}" +
+                    $"4. View Accounts{Environment.NewLine}" +
+                    $"0. Back to Main Menu");
 
                 Console.Write("Enter choice: ");
 
                 if (int.TryParse(Console.ReadLine(), out accountsMenuChoice))
                 {
+                    switch (accountsMenuChoice)
+                    {
+                        case 1:
+                            AccountsPresentation.AddAccount();
+                            break;
 
+                        case 2:
+                            AccountsPresentation.DeleteAccount();
+                            break;
+
+                        case 3:
+                            AccountsPresentation.UpdateAccount();
+                            break;
+
+                        case 4:
+                            AccountsPresentation.ViewAccounts();
+                            break;
+
+                        default:
+                            Console.WriteLine("Input valid number of menu");
+                            break;
+                    }
                 }
                 else
                 {

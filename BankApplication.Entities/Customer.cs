@@ -66,7 +66,9 @@ namespace BankApplication.Entities
                     throw new CustomerException("Customer code should be positive only");
             }
         }
+        #endregion
 
+        #region Methods
         public object Clone()
         {
             return new Customer() 
@@ -83,12 +85,11 @@ namespace BankApplication.Entities
 
         public override string ToString()
         {
-             string info = $"Customer code: {CustomerCode}, customer name: {CustomerName}, customer address: {CustomerAddress}" +
-                $", customer phone: {CustomerPhone}, customer city: {CustomerCity}, customer country: {CustomerCountry}";
+             string info = $"\nCustomer code: {CustomerCode}, \ncustomer name: {CustomerName}, \ncustomer address: {CustomerAddress}" +
+                $", \ncustomer phone: {CustomerPhone}, \ncustomer city: {CustomerCity}, \ncustomer country: {CustomerCountry}";
 
             return info;
         }
-
         #endregion
     }
 }

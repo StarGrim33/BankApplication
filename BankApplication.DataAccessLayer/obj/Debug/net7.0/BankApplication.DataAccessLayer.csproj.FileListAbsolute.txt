@@ -15,3 +15,20 @@ C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplicat
 C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.DataAccessLayer\obj\Debug\net7.0\refint\BankApplication.DataAccessLayer.dll
 C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.DataAccessLayer\obj\Debug\net7.0\BankApplication.DataAccessLayer.pdb
 C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.DataAccessLayer\obj\Debug\net7.0\ref\BankApplication.DataAccessLayer.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.DataAccessLayer\bin\Debug\net7.0\BankApplication.DataAccessLayer.deps.json
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.DataAccessLayer\bin\Debug\net7.0\BankApplication.DataAccessLayer.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.DataAccessLayer\bin\Debug\net7.0\BankApplication.DataAccessLayer.pdb
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.DataAccessLayer\bin\Debug\net7.0\BankApplication.Entities.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.DataAccessLayer\bin\Debug\net7.0\BankApplication.Exceptions.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.DataAccessLayer\bin\Debug\net7.0\BankApplication.Entities.pdb
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.DataAccessLayer\bin\Debug\net7.0\BankApplication.Exceptions.pdb
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.DataAccessLayer\obj\Debug\net7.0\BankApplication.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.DataAccessLayer\obj\Debug\net7.0\BankApplication.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.DataAccessLayer\obj\Debug\net7.0\BankApplication.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.DataAccessLayer\obj\Debug\net7.0\BankApplication.DataAccessLayer.AssemblyInfo.cs
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.DataAccessLayer\obj\Debug\net7.0\BankApplication.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.DataAccessLayer\obj\Debug\net7.0\BankApplication.DataAccessLayer.csproj.CopyComplete
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.DataAccessLayer\obj\Debug\net7.0\BankApplication.DataAccessLayer.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.DataAccessLayer\obj\Debug\net7.0\refint\BankApplication.DataAccessLayer.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.DataAccessLayer\obj\Debug\net7.0\BankApplication.DataAccessLayer.pdb
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.DataAccessLayer\obj\Debug\net7.0\ref\BankApplication.DataAccessLayer.dll
