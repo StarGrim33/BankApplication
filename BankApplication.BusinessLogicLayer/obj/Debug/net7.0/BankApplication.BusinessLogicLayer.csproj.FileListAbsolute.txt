@@ -19,3 +19,24 @@ C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplicat
 C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.BusinessLogicLayer\obj\Debug\net7.0\refint\BankApplication.BusinessLogicLayer.dll
 C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.BusinessLogicLayer\obj\Debug\net7.0\BankApplication.BusinessLogicLayer.pdb
 C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.BusinessLogicLayer\obj\Debug\net7.0\ref\BankApplication.BusinessLogicLayer.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\bin\Debug\net7.0\BankApplication.BusinessLogicLayer.deps.json
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\bin\Debug\net7.0\BankApplication.BusinessLogicLayer.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\bin\Debug\net7.0\BankApplication.BusinessLogicLayer.pdb
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\bin\Debug\net7.0\BankApplication.Configuration.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\bin\Debug\net7.0\BankApplication.DataAccessLayer.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\bin\Debug\net7.0\BankApplication.Entities.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\bin\Debug\net7.0\BankApplication.Exceptions.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\bin\Debug\net7.0\BankApplication.Configuration.pdb
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\bin\Debug\net7.0\BankApplication.DataAccessLayer.pdb
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\bin\Debug\net7.0\BankApplication.Entities.pdb
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\bin\Debug\net7.0\BankApplication.Exceptions.pdb
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\obj\Debug\net7.0\BankApplication.BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\obj\Debug\net7.0\BankApplication.BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\obj\Debug\net7.0\BankApplication.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\obj\Debug\net7.0\BankApplication.BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\obj\Debug\net7.0\BankApplication.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\obj\Debug\net7.0\BankApplication.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\obj\Debug\net7.0\BankApplication.BusinessLogicLayer.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\obj\Debug\net7.0\refint\BankApplication.BusinessLogicLayer.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\obj\Debug\net7.0\BankApplication.BusinessLogicLayer.pdb
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.BusinessLogicLayer\obj\Debug\net7.0\ref\BankApplication.BusinessLogicLayer.dll

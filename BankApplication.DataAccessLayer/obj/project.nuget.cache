@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wYU56OOdTL86SUwMNUENRcvJCy0AJYsnoQ2WBHwi0EMkmufX7CITkZGCK0VhzRgom+L89n3TqTzHAfPqjPURSg==",
+  "dgSpecHash": "xbYAIzJCG5/7J3SI28eweYrSD7yTmbERTSaY/xTsFtVrpBA0XRf9MS+18oqd2xZgpShr3FLVD2STUt7cr0KRFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Влад и Аня\\source\\Documents\\GitHub\\BankApplication\\BankApplication.DataAccessLayer\\BankApplication.DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\prosk\\OneDrive\\Документы\\GitHub\\Bank\\BankApplication\\BankApplication.DataAccessLayer\\BankApplication.DataAccessLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

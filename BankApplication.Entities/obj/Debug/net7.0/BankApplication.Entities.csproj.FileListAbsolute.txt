@@ -13,3 +13,18 @@ C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplicat
 C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\obj\Debug\net7.0\refint\BankApplication.Entities.dll
 C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\obj\Debug\net7.0\BankApplication.Entities.pdb
 C:\Users\Влад и Аня\source\Documents\GitHub\BankApplication\BankApplication.Entities\obj\Debug\net7.0\ref\BankApplication.Entities.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.Entities\bin\Debug\net7.0\BankApplication.Entities.deps.json
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.Entities\bin\Debug\net7.0\BankApplication.Entities.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.Entities\bin\Debug\net7.0\BankApplication.Entities.pdb
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.Entities\bin\Debug\net7.0\BankApplication.Exceptions.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.Entities\bin\Debug\net7.0\BankApplication.Exceptions.pdb
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.Entities\obj\Debug\net7.0\BankApplication.Entities.csproj.AssemblyReference.cache
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.Entities\obj\Debug\net7.0\BankApplication.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.Entities\obj\Debug\net7.0\BankApplication.Entities.AssemblyInfoInputs.cache
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.Entities\obj\Debug\net7.0\BankApplication.Entities.AssemblyInfo.cs
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.Entities\obj\Debug\net7.0\BankApplication.Entities.csproj.CoreCompileInputs.cache
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.Entities\obj\Debug\net7.0\BankApplication.Entities.csproj.CopyComplete
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.Entities\obj\Debug\net7.0\BankApplication.Entities.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.Entities\obj\Debug\net7.0\refint\BankApplication.Entities.dll
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.Entities\obj\Debug\net7.0\BankApplication.Entities.pdb
+C:\Users\prosk\OneDrive\Документы\GitHub\Bank\BankApplication\BankApplication.Entities\obj\Debug\net7.0\ref\BankApplication.Entities.dll

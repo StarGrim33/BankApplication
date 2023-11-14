@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Влад и Аня\\source\\Documents\\GitHub\\BankApplication\\BankApplication.Exceptions\\BankApplication.Exceptions.csproj": {}
+    "C:\\Users\\prosk\\OneDrive\\Документы\\GitHub\\Bank\\BankApplication\\BankApplication.Exceptions\\BankApplication.Exceptions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Влад и Аня\\source\\Documents\\GitHub\\BankApplication\\BankApplication.Exceptions\\BankApplication.Exceptions.csproj": {
+    "C:\\Users\\prosk\\OneDrive\\Документы\\GitHub\\Bank\\BankApplication\\BankApplication.Exceptions\\BankApplication.Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Влад и Аня\\source\\Documents\\GitHub\\BankApplication\\BankApplication.Exceptions\\BankApplication.Exceptions.csproj",
+        "projectUniqueName": "C:\\Users\\prosk\\OneDrive\\Документы\\GitHub\\Bank\\BankApplication\\BankApplication.Exceptions\\BankApplication.Exceptions.csproj",
         "projectName": "BankApplication.Exceptions",
-        "projectPath": "C:\\Users\\Влад и Аня\\source\\Documents\\GitHub\\BankApplication\\BankApplication.Exceptions\\BankApplication.Exceptions.csproj",
-        "packagesPath": "C:\\Users\\Влад и Аня\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Влад и Аня\\source\\Documents\\GitHub\\BankApplication\\BankApplication.Exceptions\\obj\\",
+        "projectPath": "C:\\Users\\prosk\\OneDrive\\Документы\\GitHub\\Bank\\BankApplication\\BankApplication.Exceptions\\BankApplication.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\prosk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prosk\\OneDrive\\Документы\\GitHub\\Bank\\BankApplication\\BankApplication.Exceptions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Влад и Аня\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\prosk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

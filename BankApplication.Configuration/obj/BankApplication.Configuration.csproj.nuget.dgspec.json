@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Влад и Аня\\source\\Documents\\GitHub\\BankApplication\\BankApplication.Configuration\\BankApplication.Configuration.csproj": {}
+    "C:\\Users\\prosk\\OneDrive\\Документы\\GitHub\\Bank\\BankApplication\\BankApplication.Configuration\\BankApplication.Configuration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Влад и Аня\\source\\Documents\\GitHub\\BankApplication\\BankApplication.Configuration\\BankApplication.Configuration.csproj": {
+    "C:\\Users\\prosk\\OneDrive\\Документы\\GitHub\\Bank\\BankApplication\\BankApplication.Configuration\\BankApplication.Configuration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Влад и Аня\\source\\Documents\\GitHub\\BankApplication\\BankApplication.Configuration\\BankApplication.Configuration.csproj",
+        "projectUniqueName": "C:\\Users\\prosk\\OneDrive\\Документы\\GitHub\\Bank\\BankApplication\\BankApplication.Configuration\\BankApplication.Configuration.csproj",
         "projectName": "BankApplication.Configuration",
-        "projectPath": "C:\\Users\\Влад и Аня\\source\\Documents\\GitHub\\BankApplication\\BankApplication.Configuration\\BankApplication.Configuration.csproj",
-        "packagesPath": "C:\\Users\\Влад и Аня\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Влад и Аня\\source\\Documents\\GitHub\\BankApplication\\BankApplication.Configuration\\obj\\",
+        "projectPath": "C:\\Users\\prosk\\OneDrive\\Документы\\GitHub\\Bank\\BankApplication\\BankApplication.Configuration\\BankApplication.Configuration.csproj",
+        "packagesPath": "C:\\Users\\prosk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prosk\\OneDrive\\Документы\\GitHub\\Bank\\BankApplication\\BankApplication.Configuration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Влад и Аня\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\prosk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
